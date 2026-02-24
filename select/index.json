@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Angie (Remastered 2009)",
+  "base_artist": "The Rolling Stones",
+  "createdAt": "2026-02-24T14:08:04.362141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angie (Remastered 2009)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/01_Angie_(Remastered_2009)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angie (Remastered 2009)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/02_Angie_(Remastered_2009)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear Angie (Remastered)",
+      "artist": "Badfinger",
+      "has_synced": true,
+      "path": "select/03_Dear_Angie_(Remastered)_Badfinger.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Angie (Remastered 2009)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/04_Angie_(Remastered_2009)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angie - Remastered",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/05_Angie_-_Remastered_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Angie (Remastered)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/06_Angie_(Remastered)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angie (Remastered 2009)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/07_Angie_(Remastered_2009)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear Angie - Remastered 2010",
+      "artist": "Badfinger",
+      "has_synced": true,
+      "path": "select/08_Dear_Angie_-_Remastered_2010_Badfinger.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dear Angie (Remastered 2010)",
+      "artist": "Badfinger",
+      "has_synced": true,
+      "path": "select/09_Dear_Angie_(Remastered_2010)_Badfinger.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Angie (Remastered 2009)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/10_Angie_(Remastered_2009)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dear Angie (Remastered 2010)",
+      "artist": "Badfinger",
+      "has_synced": false,
+      "path": "select/11_Dear_Angie_(Remastered_2010)_Badfinger.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ANGIE (REMASTERED)",
+      "artist": "THE ROLLING STONES",
+      "has_synced": true,
+      "path": "select/12_ANGIE_(REMASTERED)_THE_ROLLING_STONES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angie (Remastered 2009)",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/pl_01_Angie_(Remastered_2009)_The_Rolling_Stones.txt"
+    }
+  ]
+}
